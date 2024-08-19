@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lv_menu">
+    <item>@string/set_karaage</item>
+    <item>@string/set_hamburger</item>
+    <item>@string/set_shoga</item>
+    <item>@string/set_steak</item>
+    <item>@string/set_yasai</item>
+    <item>@string/set_tonkatsu</item>
+    <item>@string/set_minchi</item>
+    <item>@string/set_chiken</item>
+    <item>@string/set_korokke</item>
+    <item>@string/set_hoikoro</item>
+    <item>@string/set_mabo</item>
+    <item>@string/set_chinjao</item>
+    <item>@string/set_haopo</item>
+    <item>@string/set_subuta</item>
+    <item>@string/set_kakunl</item>
+    <item>@string/set_yakitori</item>
+    <item>@string/set_sakana</item>
+    <item>@string/set_yakiniku</item>
+</string-array>
+</resources>

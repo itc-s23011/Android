@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Event and listener sample</string>
+    <string name="tv_name">Please enter your name.</string>
+    <string name="bt_click">showing</string>
+    <string name="bt_clear">clear</string>
+    <string name="tv_msg">Hello,%1$s</string>
+</resources>

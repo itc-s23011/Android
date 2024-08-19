@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentSample</string>
+    <string name="currency_unit">Yen</string>
+    <string name="tv_thx_title">Order completed</string>
+    <string name="tv_thx_desc">The following menu items have been ordered.\nThank you for your order.</string>
+    <string name="bt_thx_back">Back to list</string>
+</resources>

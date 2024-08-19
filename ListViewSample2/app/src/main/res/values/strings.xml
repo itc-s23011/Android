@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">List selection sample 2</string>
+    <string name="dialog_title">Order confirmation</string>
+    <string name="dialog_msg">Order the selected set meal.Are you sure?</string>
+    <string name="dialog_btn_ok">Order</string>
+    <string name="dialog_btn_ng">Cancel</string>
+    <string name="dialog_btn_nu">Enquiry</string>
+    <string name="dialog_ok_toast">Thank you for your order.</string>
+    <string name="dialog_ng_toast">Your order has been canceled.</string>
+    <string name="dialog_nu_toast">Please let us know the details of your enquiry.</string>
+</resources>

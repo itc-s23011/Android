@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">リスト選択サンプル</string>
+    <string name="set_karaage">から揚げ定食</string>
+    <string name="set_hamburger">ハンバーグ定食</string>
+    <string name="set_shoga">生姜焼き定食</string>
+    <string name="set_steak">ステーキ定食</string>
+    <string name="set_yasai">野菜炒め定食</string>
+    <string name="set_tonkatsu">とんかつ定食</string>
+    <string name="set_minchi">ミンチかつ定食</string>
+    <string name="set_chiken">チキンカツ定食</string>
+    <string name="set_korokke">コロッケ定食</string>
+    <string name="set_hoikoro">回鍋肉定食</string>
+    <string name="set_mabo">麻婆豆腐定食</string>
+    <string name="set_chinjao">青椒肉絲定食</string>
+    <string name="set_haopo">八宝菜定食</string>
+    <string name="set_subuta">酢豚定食</string>
+    <string name="set_kakunl">豚の角煮定食</string>
+    <string name="set_yakitori">焼き鳥定食</string>
+    <string name="set_sakana">焼き魚定食</string>
+    <string name="set_yakiniku">焼肉定食</string>
+</resources>

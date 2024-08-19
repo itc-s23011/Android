@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ImplicitIntentSample</string>
+    <string name="bt_map_serch">地図検索</string>
+    <string name="tv_current_title">現在地</string>
+</resources>

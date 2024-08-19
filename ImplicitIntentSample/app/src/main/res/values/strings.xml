@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImplicitIntentSample</string>
+    <string name="bt_map_serch">map search</string>
+    <string name="tv_current_title">current location</string>
+</resources>

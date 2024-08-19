@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">List selectio sample</string>
+    <string name="set_karaage">Karaage set meal</string>
+    <string name="set_hamburger">Hamburger set meal</string>
+    <string name="set_shoga">Ginger yaki set meal</string>
+    <string name="set_steak">Steak set meal</string>
+    <string name="set_yasai">Vegetable stir_fry set meal</string>
+    <string name="set_tonkatsu">Pork cutlet set meal</string>
+    <string name="set_minchi">Minced pork cutlet set meal</string>
+    <string name="set_chiken">Chickencutlet set meal</string>
+    <string name="set_korokke">Croquette set meal</string>
+    <string name="set_hoikoro">Claypot set meal</string>
+    <string name="set_mabo">Bean_curd soup set meal</string>
+    <string name="set_chinjao">Chinese stir-fry with green pepper</string>
+    <string name="set_haopo">Hakobojana set meal</string>
+    <string name="set_subuta">Sweet-and-sour pork set meal</string>
+    <string name="set_kakunl">Bralsed pork cubes set meal</string>
+    <string name="set_yakitori">Yakitori set meal</string>
+    <string name="set_sakana">Grilled fish set meal</string>
+    <string name="set_yakiniku">Grilled meat set meal</string>
+</resources>
